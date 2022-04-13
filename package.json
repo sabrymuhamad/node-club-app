@@ -18,5 +18,17 @@
   "bugs": {
     "url": "https://github.com/sabrymuhamad/node-club-app/issues"
   },
-  "homepage": "https://github.com/sabrymuhamad/node-club-app#readme"
+  "homepage": "https://github.com/sabrymuhamad/node-club-app#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "config": "^3.3.7",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "express-async-errors": "^3.1.1",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.2.11",
+    "multer": "^1.4.4"
+  }
 }

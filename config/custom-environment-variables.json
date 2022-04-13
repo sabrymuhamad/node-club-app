@@ -1,0 +1,4 @@
+{
+    "name": "Club App",
+    "jwtPrivateKey": "club_jwt"
+}
