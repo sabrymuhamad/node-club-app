@@ -1,0 +1,22 @@
+{
+  "name": "club-app",
+  "version": "1.0.0",
+  "description": "club management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabrymuhamad/node-club-app.git"
+  },
+  "keywords": [
+    "club"
+  ],
+  "author": "sabry muhammad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabrymuhamad/node-club-app/issues"
+  },
+  "homepage": "https://github.com/sabrymuhamad/node-club-app#readme"
+}
